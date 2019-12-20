@@ -1,0 +1,70 @@
+{
+    "name": "WorldMate",
+    "description": "Join over 10 million travelers who rely on WorldMate to plan, book, and manage every aspect of their trips.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1221-worldmate.jpg",
+    "tags": [
+        "applications",
+        "have api",
+        "itinerary",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/worldmate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WorldMate",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1221-worldmate.jpg",
+            "humanURL": "https:\/\/worldmate.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/worldmate-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.worldmate.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.worldmate.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.worldmate.com\/atom.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/worldmate"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/worldmate"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.worldmate.com"
+        },
+        {
+            "type": "Email",
+            "url": "Partnership@worldmate.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/WorldMate"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/worldmate.com"
+        }
+    ]
+}
